@@ -6,7 +6,4 @@ matplotlib==3.4.2
 Keras==2.4.3
 opencv-python==4.5.1.48
 tensorflow==2.5.0
-Werkzeug==0.16.0
-Jinja2==2.10.1
-itsdangerous==1.1.0
-MarkupSafe==1.1.1
+
