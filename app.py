@@ -66,4 +66,4 @@ def emotion_detect():
 	return render_template("emotion_detect.html", data=prediction, link=link)
 
 if __name__ == "__main__":
-	app.run(debug=False,host='0.0.0.0')
+	app.run(debug=True)
